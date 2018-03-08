@@ -8,4 +8,5 @@ Collection of common interview questions of Chinese internet companies, mainly f
 * [computer network](https://github.com/lioncruise/interview_questions/issues/4)
 * [database](https://github.com/lioncruise/interview_questions/issues/5)
 * [distributed system](https://github.com/lioncruise/interview_questions/issues/6)
-* [data structure&algorithm](https://github.com/lioncruise/interview_questions/issues/9)
+* [data structure & algorithm](https://github.com/lioncruise/interview_questions/issues/9)
+* [cluster scheduling](https://github.com/lioncruise/interview_questions/issues/8)
